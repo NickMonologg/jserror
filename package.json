@@ -27,7 +27,7 @@
   "homepage": "https://github.com/Munter/jserror#readme",
   "dependencies": {
     "chalk": "1.1.1",
-    "csserror": "1.1.2"
+    "csserror": "2.0.0"
   },
   "devDependencies": {
     "coveralls": "2.11.4",
