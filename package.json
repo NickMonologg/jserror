@@ -1,6 +1,6 @@
 {
   "name": "jserror",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Generate a JS-based error message that will show in the browser",
   "main": "lib/index.js",
   "scripts": {
