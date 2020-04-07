@@ -29,7 +29,7 @@
   },
   "homepage": "https://github.com/Munter/jserror#readme",
   "dependencies": {
-    "chalk": "1.1.1",
+    "chalk": "1.1.3",
     "csserror": "2.0.2"
   },
   "devDependencies": {
